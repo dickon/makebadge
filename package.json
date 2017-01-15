@@ -1,0 +1,8 @@
+{
+  "license": "GPLv3",
+  "name": "makebadge",
+  "dependencies": {
+    "reflect-metadata": "^0.1.9",
+    "typeorm": "0.0.6"
+  }
+}
